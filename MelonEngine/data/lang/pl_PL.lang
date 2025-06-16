@@ -1,0 +1,11 @@
+lang=Polski
+splash.warning=Uwaga: Silnik i gra są w bardzo wczesnym etapie rozwoju.\nZ pewnością NIE SĄ stabilne. Spodziewaj się błędów i nie działających funkcji.
+title.start.controller=Wciśnij Menu aby zacząć
+title.start.keyboard=Wciśnij dowolny klawisz aby zacząć
+notification.controllerConnected=Podłączono kontroler - %s
+notification.controllerDisconnected=Odłączono kontroler
+menu.new_game=Nowa gra
+menu.continue=Kontynuuj
+menu.custom=Własne poziomy
+menu.options=Opcje
+menu.quit=Wyjdź

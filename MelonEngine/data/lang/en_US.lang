@@ -1,0 +1,11 @@
+lang=English (United States)
+splash.warning=Warning: Engine and the game itself are in early stage of development.\nThey are definitely NOT stable. Expect bugs and non-working features.
+title.start.controller=Press Menu to start
+title.start.keyboard=Press any key to start
+notification.controllerConnected=Controller connected - %s
+notification.controllerDisconnected=Controller disconnected
+menu.new_game=New game
+menu.continue=Continue
+menu.custom=Custom maps
+menu.options=Options
+menu.quit=Quit

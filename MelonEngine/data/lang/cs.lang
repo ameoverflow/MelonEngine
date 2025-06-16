@@ -1,0 +1,11 @@
+lang=čeština
+splash.warning=Upozornění: Engine a hra samotná jsou v rané fázi vývoje.\nRozhodně NEJSOU stabilní. Očekávejte chyby a nefunkční funkce.
+title.start.controller=Začněte stisknutím tlačítka Menu
+title.start.keyboard=Začněte stisknutím libovolné klávesy
+notification.controllerConnected=Controller connected - %s
+notification.controllerDisconnected=Controller disconnected
+menu.new_game=Nová hra
+menu.continue=Pokračovat
+menu.custom=Vlastní úrovně
+menu.options=Možnosti
+menu.quit=Přestat
